@@ -10,7 +10,7 @@ Visit the [DMD Program Hub](http://dmd.psu.edu/) for more details.
 
 **Primary Course Author**
 
-Michael Collins, Assistant Professor, Penn State School of Visual Arts
+Michael Collins, Assistant Professor of Art, Penn State School of Visual Arts
 
 **Instructional Design**
 
