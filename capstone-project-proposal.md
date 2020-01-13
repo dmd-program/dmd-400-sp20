@@ -22,7 +22,7 @@ The following must be included in the proposal: \(Download: [MS Word template](/
    * Who is the intended audience?
 4. **Advisor**
    * Project advisor name
-     * The advisor can be a mentor or client you are working with to develop the project.  Choose a faculty member, industry professional, or real-world client that you will have at least three interactions with in order to facilitate the development of your project.
+     * The advisor can be a mentor or client you are working with to develop the project.  Choose a faculty member, industry professional, or real-world client that you will have at least three interactions with in order to facilitate the development of your project. This should be someone who is an expert in either the content area of your project or an expert in the technical area of your project.
    * Contact email address for advisor, mentor or client
    * Background or qualifications for advisor, mentor or client
 5. **Production scope**
