@@ -1,6 +1,6 @@
 # Introduction
 
-This course follows [DMD 300: Digital Multimedia Design Studio](https://legacy.gitbook.com/book/dmd-program/dmd-100-sp19/details). In that course, students participated in a group design project, and developed their own independent project using digital formats and tools of their choosing. In DMD 400: Digital Multimedia Design Capstone, students will have the opportunity to develop a focused capstone project.
+This course follows [DMD 300: Digital Multimedia Design Studio](https://legacy.gitbook.com/book/dmd-program/dmd-100-sp19/details). In that course, students participated in a group design project, and developed their own independent project using digital formats and tools of their choosing. In DMD 400: Digital Multimedia Design Capstone, senior-level students will have the opportunity to develop a focused capstone project. Students should incorporate the many skills and interests that they have developed over the duration of their studies into their projects. Students who have not completed the bulk of their degree requirements should not yet enroll in this course.
 
 ## Course description
 
