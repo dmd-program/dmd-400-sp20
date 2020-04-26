@@ -84,8 +84,4 @@ Convert audio files to `.mp3` so they may be playable from a web browser.
 ## Submission details
 
 1. Submit the final project media to Canvas by the indicated date in a `.zip` file.
-2. Submit the exhibition information form below by the indicated date on Canvas. If the form is not visible, please contact your instructor.
-
----
-
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrnJgWiz2BszRYAD?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2643" style="background: transparent; border: 1px solid #ccc;"></iframe>
+2. Submit the exhibition information form on Canvas by the indicated date on Canvas.
